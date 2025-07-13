@@ -49,4 +49,5 @@ Enjoy the game! 🕹️
 
 - Make sure you have Java SDK (for example Java 17 or higher) configured in IntelliJ.
 - The `biuoop-1.4.jar` library is required for GUI and keyboard input support.
+- ![Game Screenshot](Game.png)
 
